@@ -105,11 +105,3 @@ Fast-growing frontend (with little bit of backend & linux) engineer
   </a>
 </p>
 
-## Badges
-
-<b>Commits & Strikes</b>
-<br />
-<a href="http://www.github.com/p-sw" align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-sw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
