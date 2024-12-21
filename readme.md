@@ -16,13 +16,12 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 *   GNU/Linux enthusiast since 2016.
 *   Learning DevOps and cybersecurity since 2018.
 *   I use NixOS btw.
-*   Speaker of English, Russian and Polish languages.
+*   🧠  Speaker of English, Russian and Polish languages.
 *   🖥️  See my portfolio at [abusoww.com](abusoww.com)
 *   ✉️  You can contact me at [hello@abusoww.com](mailto:hellok@abusoww.com)
 *   🚀  I'm currently working on:
     * [@devbench](https://github.com/hk4dev) ([Web](https://devbench.kr))
     * [@maybe-us](https://github.com/maybe-us) ([Discord](https://discord.com/invite/maybe))
-*   🧠  I'm learning React & NextJS, Svelte & SvelteKit for frontend, NestJS for backend
 
 
 
