@@ -11,7 +11,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 
 *   🌍  I'm based in Baku, Azerbaijan
 *   💌  GNU/Linux enthusiast since 2016.
-*   🎯  Learning DevOps and cybersecurity since 2018.
+*   🎯  Learning OffSec and cybersecurity since 2018.
 *   😁  I use Debian btw.
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
 *   🖥️  See my portfolio at [abusoww.com](abusoww.com)
