@@ -1,18 +1,9 @@
 > Meet my brand new UI library at [here!](https://ui.psw.kr)
  
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shinwoo PARK
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nicat Abushov
   
-## Web Frontend Developer 
+## Coding Enthusiast 
  
-<a href="https://wakapi.dev">
- <img src="https://wakapi.dev/api/badge/pswkr/interval:today?label=today" />
-</a>
-<a href="https://wakapi.dev">
- <img src="https://wakapi.dev/api/badge/pswkr/pswkr/interval:30_days?label=last%2030d" />
-</a>
-<a href="https://wakapi.dev">
- <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/pswkr/interval:all_time&label=All%20time&color=blue" />
-</a>
 <br/>
 
 Fast-growing frontend (with little bit of backend & linux) engineer
@@ -21,9 +12,9 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 
 <br />
 
-*   🌍  I'm based in Incheon, South Korea
-*   🖥️  See my portfolio at [psw.kr](https://psw.kr)
-*   ✉️  You can contact me at [shinwoo.park@psw.kr](mailto:shinwoo.park@psw.kr)
+*   🌍  I'm based in Baku, Azerbaijan
+*   🖥️  See my portfolio at [abusoww.com](abusoww.com)
+*   ✉️  You can contact me at [hello@abusoww.com](mailto:hellok@abusoww.com)
 *   🚀  I'm currently working on:
     * [@devbench](https://github.com/hk4dev) ([Web](https://devbench.kr))
     * [@maybe-us](https://github.com/maybe-us) ([Discord](https://discord.com/invite/maybe))
@@ -122,25 +113,3 @@ Fast-growing frontend (with little bit of backend & linux) engineer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-sw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-## Coding Stats
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 August 2024 - To: 21 December 2024
-
-Total Time: 146 hrs 24 mins
-
-TypeScript       36 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-TSX              35 hrs 31 mins  ██████░░░░░░░░░░░░░░░░░░░   24.26 %
-JavaScript       34 hrs 46 mins  ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-CSS              7 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-typescript       4 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-```
-
-<!--END_SECTION:waka-->
-
-## Typing Stats
-
-  <a href="https://monkeytype.com/profile/sserve">
-   <img src="https://raw.githubusercontent.com/p-sw/p-sw/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype personal bests" />
- </a>
