@@ -1,7 +1,19 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nicat Abushov
   
 ## Coding Enthusiast 
- 
+ ```c
+#include <awesomeness.h>
+
+int whoami(void)
+{
+    char name[] = "avantika"
+    char username[] = "@iamavu"
+    char identity[] = "security researcher";
+    char pronouns[] = "she/her";
+
+    return 1337;
+}
+```
 <br/>
 
 Fast-growing frontend (with little bit of backend & linux) engineer
