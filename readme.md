@@ -5,9 +5,9 @@
 
 **Fast-growing Offensive Security (OffSec) Engineer**  
 _with a touch of scripting, backend, and Linux expertise_
-
-
 <br />
+
+
 *   🌍  I'm based in Baku, Azerbaijan
 *   😄 Pronouns: he/him/dude
 *   💌  GNU/Linux enthusiast since 2021.
@@ -17,8 +17,8 @@ _with a touch of scripting, backend, and Linux expertise_
 *   🖥️  See my portfolio at [abusoww.com](abusoww.com)
 *   ✉️  You can contact me at [hello@abusoww.com](mailto:hellok@abusoww.com)
 *   🚀  I'm currently working on:
-<br /> 
     * IMTAHANCE [Web](https://imtahance.az) | [Telegram](https://t.me/imtahance) | [Youtube](https://youtube.com/@imtahance)
+
 
 
 
