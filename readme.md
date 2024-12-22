@@ -16,7 +16,7 @@ Fast-growing Offensive Security (OffSec) Engineer
 *   🖥️  See my portfolio at [abusoww.com](abusoww.com)
 *   ✉️  You can contact me at [hello@abusoww.com](mailto:hellok@abusoww.com)
 *   🚀  I'm currently working on:
-    * [IMTAHANCE](https://imtahance.az)
+    * [IMTAHANCE](https://imtahance.az) ([Telegram](https://t.me/imtahance)) ([Web](https://imtahance.az))
     * [@maybe-us](https://github.com/maybe-us) ([Discord](https://discord.com/invite/maybe))
 
 
