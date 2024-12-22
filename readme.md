@@ -9,14 +9,14 @@ Fast-growing Offensive Security (OffSec) Engineer
 <br />
 
 *   🌍  I'm based in Baku, Azerbaijan
-*   💌  GNU/Linux enthusiast since 2016.
-*   🎯  Learning OffSec and cybersecurity since 2018.
+*   💌  GNU/Linux enthusiast since 2021.
+*   🎯  Learning OffSec and cybersecurity since 2022.
 *   😁  I use Debian btw.
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
 *   🖥️  See my portfolio at [abusoww.com](abusoww.com)
 *   ✉️  You can contact me at [hello@abusoww.com](mailto:hellok@abusoww.com)
 *   🚀  I'm currently working on:
-    * [@devbench](https://github.com/hk4dev) ([Web](https://devbench.kr))
+    * [IMTAHANCE](https://imtahance.az)
     * [@maybe-us](https://github.com/maybe-us) ([Discord](https://discord.com/invite/maybe))
 
 
