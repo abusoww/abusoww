@@ -3,8 +3,9 @@
 ## Wanderer of Rabbit Holes  
 <br/>
 
-Fast-growing Offensive Security (OffSec) Engineer
-> with a touch of scripting, backend, and Linux expertise
+**Fast-growing Offensive Security (OffSec) Engineer**  
+_with a touch of scripting, backend, and Linux expertise_
+
 
 <br />
 
