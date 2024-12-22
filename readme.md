@@ -4,7 +4,6 @@
 <br/>
 
 Fast-growing Offensive Security (OffSec) Engineer
- 
 > with a touch of scripting, backend, and Linux expertise
 
 <br />
