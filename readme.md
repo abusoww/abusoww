@@ -8,8 +8,8 @@ _with a touch of scripting, backend, and Linux expertise_
 
 
 <br />
-
 *   🌍  I'm based in Baku, Azerbaijan
+*   😄 Pronouns: he/him/dude
 *   💌  GNU/Linux enthusiast since 2021.
 *   🎯  Learning OffSec and cybersecurity since 2022.
 *   😁  I use Debian btw.
