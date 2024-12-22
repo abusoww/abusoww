@@ -1,11 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nicat Abushov
   
-## Coding Enthusiast 
+## Wanderer of Rabbit Holes  
 <br/>
 
-Fast-growing frontend (with little bit of backend & linux) engineer
+Fast-growing Offensive Security (OffSec) Engineer
  
-* Smoothly Interactive & Responsive Frontend Development
+> with a touch of scripting, backend, and Linux expertise
 
 <br />
 
