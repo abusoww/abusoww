@@ -26,7 +26,7 @@ _with a touch of scripting, backend, and Linux expertise_
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,py,html,css,js,vscode,ps,ai,figma,linux,md&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,py,html,css,js,vscode,ps,ai,figma,linux,md&theme=light&perline=10,wordpress" />
   </a>
 </p>
 
