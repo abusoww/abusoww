@@ -20,7 +20,11 @@ _with a touch of scripting, backend, and Linux expertise_
 
     * IMTAHANCE [Web](https://imtahance.az) | [Telegram](https://t.me/imtahance) | [Youtube](https://youtube.com/@imtahance)
     
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,idea,ps,ai,figma,xd,linux,md&theme=light&perline=10" />
+  </a>
+</p>
 
 
 ### Skills
