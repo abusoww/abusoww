@@ -16,8 +16,8 @@ _with a touch of scripting, backend, and Linux expertise_
 *   🎯  Learning OffSec and cybersecurity since 2022.
 *   😁  I use Debian btw.
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
-*   🖥️  See my portfolio at [abusoww.com](abusoww.com)
-*   ✉️  You can contact me at [hello@abusoww.com](mailto:hellok@abusoww.com)
+*   🖥️  See my portfolio at [abusov.com](abusov.com)
+*   ✉️  You can contact me at [hello@abusov.com](mailto:hellok@abusov.com)
 *   🚀  I'm currently working on:
     * IMTAHANCE [Web](https://imtahance.az) | [Telegram](https://t.me/imtahance) | [Youtube](https://youtube.com/@imtahance)
 
