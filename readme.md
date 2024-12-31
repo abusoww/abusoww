@@ -34,15 +34,15 @@ _with a touch of scripting, backend, and Linux expertise_
 
 ## Careers
 
-- 2023/03~ : Frontend & Backend Engineer of [Team DevBench](https://devbench.kr)
-- 2024/02~ : Frontend Engineer & Project Manager of [Maybe Community](https://maybe.or.kr)
+- 
+- 
 
 ## Side Projects
 
-* Nyanlang - [[Github](https://github.com/nyanlang) | [Website](https://nyanlang.org)]
-* NestLogged - [[Github](https://github.com/worplo/nestlogged) | [Website](https://nestlogged.worplo.com)]
-* Jsonenv - [[Github](https://github.com/worplo/jsonenv)]
-* React-utils - [[Github](https://github.com/worplo/react-utils)]
+* 
+* 
+* 
+* 
 
 ## Socials
            
