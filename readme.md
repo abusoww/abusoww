@@ -17,7 +17,7 @@ _with a touch of scripting, backend, and Linux expertise_
 *   😁  I use Debian btw.
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
 *   🖥️  See my portfolio at [abusov.com](abusov.com)
-*   ✉️  You can contact me at [hello@abusov.com](mailto:hellok@abusov.com)
+*   ✉️  You can contact me at [nicat@abusov.com](mailto:nicat@abusov.com)
 *   🚀  I'm currently working on:
     * IMTAHANCE [Web](https://imtahance.az) | [Telegram](https://t.me/imtahance) | [Youtube](https://youtube.com/@imtahance)
 
