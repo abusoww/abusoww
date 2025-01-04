@@ -28,7 +28,6 @@ _with a touch of scripting, backend, and Linux expertise_
 
 
 
-
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -47,6 +46,7 @@ _with a touch of scripting, backend, and Linux expertise_
 * 
 * 
 * 
+
 
 ## Socials
            
@@ -81,3 +81,4 @@ _with a touch of scripting, backend, and Linux expertise_
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=abusowwK09&color=green&style=for-the-badge&label=VISITOR+COUNT&base=301)
