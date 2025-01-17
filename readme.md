@@ -23,8 +23,7 @@ _with a touch of scripting, backend, and Linux expertise_
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
 *   🖥️  See my portfolio at [abusov.com](abusov.com)
 *   ✉️  The best way to reach me is [nicat@abusov.com](mailto:nicat@abusov.com)
-*   🚀  I'm currently working on:
-    * IMTAHANCE [Web](https://imtahance.az) | [Telegram](https://t.me/imtahance) | [Youtube](https://youtube.com/@imtahance)
+
 
 
 
