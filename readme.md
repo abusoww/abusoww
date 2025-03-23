@@ -38,13 +38,13 @@ _with a touch of scripting, backend, and Linux expertise_
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
   <a href="https://www.github.com/abusoww" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://instagram.com/nicat.abushov" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
   <a href="https://twitter.com/abusoww" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Twitter" />
   </a>
 </p>
 
