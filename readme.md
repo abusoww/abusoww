@@ -1,6 +1,3 @@
-# Hi 👋 My name is Nicat Abushov
-
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=4500&pause=1000&color=EFF763&vCenter=true&width=435&lines=Cybersecurity+Engineer;Team+Leader;Entrepreneur;Open+Source+Lover;)](https://git.io/typing-svg)
 <br/>
 
@@ -11,7 +8,7 @@ _with a touch of scripting, backend, and Linux expertise_
 
 
 
-
+*   👀  Hi 👋 My name is Nicat Abushov
 *   🌍  I'm based in Baku, Azerbaijan
 *   😄 Pronouns: he/him/dude
 *   💌  GNU/Linux enthusiast since 2021.
