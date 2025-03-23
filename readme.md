@@ -46,6 +46,10 @@ _with a touch of scripting, backend, and Linux expertise_
   <a href="https://twitter.com/abusoww" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Twitter" />
   </a>
+  </a>
+  <a href="https://www.linkedin.com/in/nicatabushov/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" alt="Twitter" />
+  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=abusowwK09&color=green&style=for-the-badge&label=VISITOR+COUNT&base=301)
