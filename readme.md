@@ -18,7 +18,7 @@
 <h2 class="section-title">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,py,html,css,js,wordpress,vscode,ps,ai,figma,linux,md,windows,sublime,powershell,notion,linkedin,kali,discord,debian&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,py,html,css,js,wordpress,vscode,ps,ai,figma,linux,md,windows,sublime,powershell,notion,linkedin,kali,discord,debian&theme=dark&perline=10" />
   </a>
 </p>
 
@@ -42,40 +42,46 @@
 </div>
 
 <style>
+  body {
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+    font-family: sans-serif;
+  }
+
   .profile-header {
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   }
 
   .profile-title {
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: bold;
-    color: #333; /* Darker text color */
+    color: #e0e0e0;
     margin-bottom: 5px;
   }
 
   .profile-subtitle {
-    font-size: 1.2em;
-    color: #666; /* Slightly lighter text color */
+    font-size: 1.1em;
+    color: #bdbdbd;
   }
 
   .profile-info {
     list-style-type: none;
     padding: 0;
-    line-height: 1.6;
-    font-size: 1.1em;
+    line-height: 1.4; /* Reduced line height */
+    font-size: 1em;
   }
 
   .profile-info li {
-    margin-bottom: 8px;
+    margin-bottom: 5px; /* Reduced spacing */
   }
 
   .section-title {
-    font-size: 1.6em;
+    font-size: 1.4em;
     font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: 15px;
-    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #e0e0e0;
   }
 
   .social-icons {
@@ -84,12 +90,21 @@
   }
 
   .social-icons a {
-    margin-right: 15px;
-    transition: transform 0.3s ease; /* Smooth hover effect */
+    margin-right: 12px; /* Reduced spacing */
+    transition: transform 0.3s ease;
   }
 
   .social-icons a:hover {
-    transform: scale(1.1); /* Slightly enlarge icons on hover */
+    transform: scale(1.1);
+  }
+
+  a {
+    color: #81d4fa; /* Light blue link color */
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 </style>
 
