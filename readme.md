@@ -55,14 +55,14 @@
   .profile-title {
     font-size: 1.8em;
     font-weight: 700; /* Bold (stronger than "bold") */
-    color: #2c3e50; /* Darker title color */
+    color: #6588ac; /* Darker title color */
     margin-bottom: 5px;
   }
 
   .profile-subtitle {
     font-size: 1.1em;
     font-style: italic; /* Italic subtitle */
-    color: #555;
+    color: #7d7c76;
   }
 
   .profile-info {
