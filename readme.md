@@ -11,7 +11,7 @@
   <li><span class="emoji">🎯</span> Learning OffSec and cybersecurity since 2022.</li>
   <li><span class="emoji">😁</span> I don't use arch btw.</li>
   <li><span class="emoji">🧠</span> Speaker of English, Russian, Azerbaijani and Turkish languages.</li>
-  <li><span class="emoji">🖥️</span> See my portfolio at <a href="abusov.com" class="profile-link">abusov.com</a></li>
+  <li><span class="emoji">🖥️</span> See my portfolio at <a href="https://abusov.com" class="profile-link">abusov.com</a></li>
   <li><span class="emoji">✉️</span> The best way to reach me is <a href="mailto:nicat@abusov.com" class="profile-link">nicat@abusov.com</a></li>
 </ul>
 
