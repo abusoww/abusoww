@@ -28,9 +28,9 @@ _with a touch of scripting, backend, and Linux expertise_
 
 ## Socials
            
-<p align="left">
+<div class="social-icons">
   <a href="https://discord.com/users/abusoww" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="32" height="32" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="32" height="32" alt="Discord" />
   </a>
   <a href="https://www.github.com/abusoww" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
@@ -41,10 +41,20 @@ _with a touch of scripting, backend, and Linux expertise_
   <a href="https://twitter.com/abusoww" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Twitter" />
   </a>
+    <a href="https://www.linkedin.com/in/nicatabushov/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/nicatabushov/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" alt="Twitter" />
-  </a>
-</p>
+</div>
+
+<style>
+  .social-icons {
+    display: flex;
+    align-items: center; /* Optional: Align icons vertically centered */
+  }
+
+  .social-icons a {
+    margin-right: 10px; /* Optional: Add spacing between icons */
+  }
+</style>
 
 ![](https://komarev.com/ghpvc/?username=abusowwK09&color=green&style=for-the-badge&label=VISITOR+COUNT&base=301)
