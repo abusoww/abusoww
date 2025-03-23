@@ -1,10 +1,7 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nicat Abushov
+# Hi 👋 My name is Nicat Abushov
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=4500&pause=1000&color=EFF763&vCenter=true&width=435&lines=Cybersecurity+Engineer;Team+Leader;Entrepreneur;Open+Source+Lover;)](https://git.io/typing-svg)
-<br/>
-  
-<img src="https://www.ajournalofmusicalthings.com/wp-content/uploads/2020/11/I-am-not-a-robot.gif" width="300">
 <br/>
 
 **Fast-growing Offensive Security (OffSec) Engineer**  
