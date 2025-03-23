@@ -19,7 +19,7 @@ _with a touch of scripting, backend, and Linux expertise_
 *   😄 Pronouns: he/him/dude
 *   💌  GNU/Linux enthusiast since 2021.
 *   🎯  Learning OffSec and cybersecurity since 2022.
-*   😁  I use Debian btw.
+*   😁  I don't use arch btw.
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
 *   🖥️  See my portfolio at [abusov.com](abusov.com)
 *   ✉️  The best way to reach me is [nicat@abusov.com](mailto:nicat@abusov.com)
