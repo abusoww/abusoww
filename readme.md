@@ -81,7 +81,7 @@
     font-weight: 600; /* Slightly less bold */
     margin-top: 20px;
     margin-bottom: 10px;
-    color: #34495e; /* Darker section title */
+    color: #7d7c76; /* Darker section title */
   }
 
   .social-icons {
@@ -114,6 +114,6 @@
   }
 </style>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=abusowwK09&color=green&style=for-the-badge&label=VISITOR+COUNT&base=301" alt="Visitor Count" />
 </p>
