@@ -18,7 +18,7 @@ _with a touch of scripting, backend, and Linux expertise_
 *   🌍  I'm based in Baku, Azerbaijan
 *   😄 Pronouns: he/him/dude
 *   💌  GNU/Linux enthusiast since 2021.
-*   🎯  Learning OffSec and cybersecurity since 2022.
+*   🎯  Learning OffSec and OSINT since 2022.
 *   😁  I don't use arch btw.
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
 *   🖥️  See my portfolio at [abusov.com](abusov.com)
