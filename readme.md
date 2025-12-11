@@ -22,7 +22,7 @@ _with a touch of scripting, backend, and Linux expertise_
 *   😁  I don't use arch btw.
 *   🧠  Speaker of English, Russian, Azerbaijani and Turkish languages.
 *   🖥️  See my portfolio at [abusov.com](abusov.com)
-*   ✉️  The best way to reach me is [nicat@abusov.com](mailto:nicat@abusov.com)
+*   ✉️  The best way to reach me is <u><b>nicat[at]abusov.com</b></u>
 
 
 
@@ -31,7 +31,7 @@ _with a touch of scripting, backend, and Linux expertise_
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,py,html,css,js,wordpress,vscode,ps,ai,figma,linux,md,windows,sublime,powershell,notion,linkedin,kali,discord,debian&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,bash,js,md,docker,kubernetes,latex,git,wordpress,vscode,figma,windows,linux,powershell,notion,obsidian,vim,kali,debian,arch&theme=light&perline=10" />
   </a>
 </p>
 
@@ -65,10 +65,10 @@ _with a touch of scripting, backend, and Linux expertise_
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://twitter.com/abusoww" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/nicatabusov/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercnotent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
   </a>
