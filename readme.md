@@ -35,18 +35,12 @@ _with a touch of scripting, backend, and Linux expertise_
   </a>
 </p>
 
-## Careers
-
-- 
-- 
-
 ## Side Projects
 
-* 
-* 
-* 
-* 
-
+* **[TuxMate](https://github.com/abusoww/tuxmate)** – A web-based Linux application installer and script generator
+* **[Score Calculator](https://github.com/abusoww/calculator)** – utility for calculating and tracking scores.
+*
+*
 
 ## Socials
            
